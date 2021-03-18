@@ -19,7 +19,7 @@
 		flex-direction: column;
 		overflow: hidden;
 		padding: 1rem;
-		background: linear-gradient(0deg, #00000088 30%, #ffffff44 100%), url("https://images.unsplash.com/photo-1538970272646-f61fabb3a8a2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1241&q=80");
+		background: linear-gradient(0deg, #00000088 30%, #ffffff44 100%), url("https://i.ibb.co/47XbPhX/photo-1538970272646-f61fabb3a8a2.jpg");
 		background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -110,9 +110,9 @@
 	<h1 class="title">mzhou.dev</h1>
 	<h3 class="subtitle">A middle schooler</h3>
 	<ul class="media-container">
-		<a class="media" href="https://github.com/gradientmz"><i class="fab fa-github-alt fa-2x"></i></a>
-		<a class="media" href="https://twitter.com/gradientapps"><i class="fab fa-twitter fa-2x"></i></a>
-		<a class="media" href="mailto:xinyunzhouu@gmail.com"><i class="fas fa-at fa-2x"></i></a>
+		<a class="media" href="https://github.com/gradientmz" aria-label="Github"><i class="fab fa-github-alt fa-2x"></i></a>
+		<a class="media" href="https://twitter.com/gradientapps" aria-label="Twitter"><i class="fab fa-twitter fa-2x" ></i></a>
+		<a class="media" href="mailto:xinyunzhouu@gmail.com" aria-label="Email"><i class="fas fa-at fa-2x"></i></a>
 	</ul>
 </div>
 <div class="text introduction">
