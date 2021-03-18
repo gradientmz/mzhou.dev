@@ -89,8 +89,19 @@
 	.media:hover {
 		color: gray;
 	}
+	.media-container {
+		text-align: center;
+		padding: 0;
+	}
 	a {
 		text-decoration: none;
+	}
+	@media only screen and (max-width: 450px){
+		.title {
+			padding: 0;
+			margin: 0;
+			font-size: 3rem;
+		}
 	}
 </style>
 
