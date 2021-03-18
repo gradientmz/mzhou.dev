@@ -10,6 +10,7 @@
 <style>
 	body {
 		font-family: 'Inter', sans-serif;
+		overflow-x: hidden;
 	}
 	.heading {
 		display: flex;
