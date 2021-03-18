@@ -5,7 +5,6 @@
 </svelte:head>
 
 <script>
-	let name = 'Mark';
 </script>
 
 <style>
@@ -26,9 +25,9 @@
 		height: 30rem;
 	}
 	.projects {
-		padding: 2rem 0rem;
+		padding: 1.5rem 0rem;
 		background-color: #151f2e;
-		border: 1px solid black;
+		padding-bottom: 2.5rem;
 	}
 	.title {
 		color: white;
@@ -68,7 +67,6 @@
 	.text {
 		background-color: whitesmoke;
 		padding: 1.5rem 0rem;
-		border: 1px solid black;
 	}
 	.text-title {
 		padding: 0rem 2rem;
